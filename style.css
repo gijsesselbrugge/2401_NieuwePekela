@@ -51,6 +51,7 @@ main {
 }
 /* Slider container */
 .slider-container {
+  display: flex;
   position: relative;
   max-width: 1500px; /* Set a maximum width */
   height: 1200px;
