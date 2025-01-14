@@ -42,9 +42,9 @@ main {
 /* Slider container */
 .slider-container {
   position: relative;
-  width: 100%; /* Adjust the width as needed */
-  max-width: 1000px; /* Set a maximum width */
-  height: 1500px;
+  width: 500%; /* Adjust the width as needed */
+  max-width: 5000px; /* Set a maximum width */
+  height: 5000px;
   border-radius: 8px;
   overflow: hidden;
   background-color: #000;
