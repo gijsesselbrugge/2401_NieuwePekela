@@ -38,7 +38,17 @@ main {
   color: #555;
   margin-bottom: 20px;
 }
+.logo-container {
+  position: absolute; /* Zorgt ervoor dat het logo bovenaan blijft */
+  top: 20px; /* Afstand vanaf de bovenkant van de pagina */
+  left: 20px; /* Afstand vanaf de linkerkant van de pagina */
+  z-index: 10; /* Zorgt dat het logo boven andere elementen blijft */
+}
 
+.logo {
+  width: 50px; /* Pas de grootte van het logo aan */
+  height: auto; /* Zorg dat de verhoudingen behouden blijven */
+}
 /* Slider container */
 .slider-container {
   position: relative;
