@@ -42,8 +42,7 @@ main {
 /* Slider container */
 .slider-container {
   position: relative;
-  width: 60%; /* Adjust the width as needed */
-  max-width: 2000px; /* Set a maximum width */
+  width: 2000px; /* Adjust the width as needed */
   height: 1000px;
   border-radius: 8px;
   overflow: hidden;
