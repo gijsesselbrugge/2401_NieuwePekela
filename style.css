@@ -42,9 +42,9 @@ main {
 /* Slider container */
 .slider-container {
   position: relative;
-  width: 80%; /* De container neemt 80% van de breedte van de pagina in */
-  max-width: 1200px; /* Maximale breedte van de container */
-  height: 675px; /* Hoogte passend bij een 16:9-verhouding (1200 / 16 * 9 = 675) */
+  width: 80%; 
+  max-width: 1200px; 
+  height: 675px; 
   border-radius: 8px;
   overflow: hidden;
   background-color: #000;
