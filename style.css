@@ -42,8 +42,8 @@ main {
 /* Slider container */
 .slider-container {
   position: relative;
-  width: 3000px; /* Adjust the width as needed */
-  height: 1000px;
+  width: 3500px; /* Adjust the width as needed */
+  height: 1500px;
   border-radius: 8px;
   overflow: hidden;
   background-color: #000;
