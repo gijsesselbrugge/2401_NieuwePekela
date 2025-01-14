@@ -45,6 +45,7 @@ main {
   width: 70%; /* Adjust the width as needed */
   max-width: 1500px; /* Set a maximum width */
   height: 1200px;
+  max-height: 1200px;
   border-radius: 8px;
   overflow: hidden;
   background-color: #000;
